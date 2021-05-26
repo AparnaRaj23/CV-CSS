@@ -12,4 +12,4 @@ Deployed Website: https://aparnaraj23.github.io/CV-CSS/
 - CSS
 
 # Acknowledgments
-The Complete 2020 Web Development Bootcamp by Angela Yu
+The Complete 2020 Web Development Bootcamp by Angela Yu.
