@@ -1,4 +1,4 @@
-# CV-CSS
+# 👩‍💻 CV-CSS
 Simple curriculum vitae using HTML and CSS.  
 (Yet another challenge from The Complete 2021 Web Development Bootcamp by Angela Yu).
 
@@ -12,4 +12,4 @@ Deployed Website: https://aparnaraj23.github.io/CV-CSS/
 - CSS
 
 # Acknowledgments
-The Complete 2020 Web Development Bootcamp by Angela Yu.
+The Complete 2021 Web Development Bootcamp by Angela Yu.
